@@ -4,7 +4,20 @@ body {
   width: 700px;
 }
 
+.header {
+  font-size: 60px;
+}
+
+.tagline {
+  font-size: 45px;
+  font-style: italic;
+}
+
 .skills {
+  float: left;
+}
+
+.contact {
   float: left;
 }
 
