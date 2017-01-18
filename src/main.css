@@ -1,0 +1,26 @@
+body {
+  margin:auto;
+  text-align: center;
+  width: auto;
+}
+
+
+h1 {
+color: #004444;  
+font-family: sans-serif;
+}
+
+h2 {
+color: #004444;
+font-family: sans-serif;
+}
+
+h3 {
+color: #004444;
+font-family: sans-serif;
+}
+
+a {
+  font-family: sans-serif;
+  color: green;
+}
