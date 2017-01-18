@@ -1,12 +1,15 @@
 body {
   margin:auto;
   text-align: center;
-  width: auto;
+  width: 700px;
 }
 
+.skills {
+  float: left;
+}
 
 h1 {
-color: #004444;  
+color: #004444;
 font-family: sans-serif;
 }
 
